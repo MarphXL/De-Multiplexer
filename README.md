@@ -3,9 +3,10 @@
 ## Inhaltsverzeichnis
 1. [x] [Inhaltsverzeichnis](#Inhaltsverzeichnis)
 1. [x] [Beschreibung](#Beschreibung)
-1. [x] [Technische Daten](#technische-daten)
-   1. [x] [Datasheet](#datasheet)
 1. [ ] [Hardware](#Hardware)
+   1. [x] [Technische Daten](#technische-daten)
+   1. [x] [Datasheet](#datasheet)
+   1. [x] [PCB](#PCB)
 1. [ ] [Software](#Software)
 1. [ ] [3D](#3D)
 1. [x] [Where to buy](#Where-to-buy)
@@ -40,8 +41,7 @@ The internal switches are bidirectional, support voltages between ground and VCC
 ### Datasheet
 * [TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
 * [snapshot](https://github.com/MarphXL/De-Multiplexer/blob/master/datasheet/cd74hc4067.pdf)
-### EasyEDA
-### Eagle
+### PCB
 ## Software
 ## 3D
 
