@@ -36,7 +36,7 @@ The internal switches are bidirectional, support voltages between ground and VCC
 
 ## Datasheet
 * [TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
-* [snapshot](https://github.com/MarphXL/Vorlage/blob/master/cd74hc4067.pdf)
+* [snapshot](https://github.com/MarphXL/De-Multiplexer/blob/master/datasheet/cd74hc4067.pdf)
 
 ## Hardware
 ### EasyEDA
