@@ -57,5 +57,6 @@ The internal switches are bidirectional, support voltages between ground and VCC
 * :+1: [adafruit](https://github.com/adafruit)
 * :+1: [sparkfun](https://github.com/sparkfun)
 * :+1: [Watterott](https://github.com/watterott) and @awatterott for great SW, HW and products
-* :+1: [atom](https://github.com/atom) 
+* :+1: [atom](https://github.com/atom)
+* :+1: [mattahan](https://www.deviantart.com/mattahan) for the [Buuf graphics](https://www.deviantart.com/mattahan/art/Buuf-37966044)
 * :+1: @ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
