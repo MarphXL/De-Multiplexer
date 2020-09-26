@@ -6,7 +6,7 @@
 1. [ ] [Hardware](#Hardware)
    1. [x] [Technische Daten](#technische-daten)
    1. [x] [Datasheet](#datasheet)
-   1. [x] [PCB](#PCB)
+   1. [ ] [PCB](#PCB)
 1. [ ] [Software](#Software)
 1. [ ] [3D](#3D)
 1. [x] [Where to buy](#Where-to-buy)
